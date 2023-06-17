@@ -12,9 +12,9 @@ public class Task {
     }
 
     /**
-     * @apiNote процедура разворота связного списка при помощи рекурсии
-     * @param currentNode  текущая нода
-     * @param previousNode предыдущая нода
+     * @apiNote процедура разворота односвязного списка при помощи рекурсии
+     * @param currentNode ссылка на текущую ноду
+     * @param previousNode ссылка на предыдущую ноду
      */
 
     private void revert(Node currentNode, Node previousNode) {
