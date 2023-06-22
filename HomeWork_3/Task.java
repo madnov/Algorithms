@@ -1,3 +1,5 @@
+package HomeWork_3;
+
 
 /**
  * Необходимо превратить собранное на семинаре дерево поиска в полноценное
@@ -12,7 +14,7 @@
  * поворот и смена цвета.
  */
 
-public class draft {
+public class Task {
     private Node root;
 
     public boolean add(int value){
